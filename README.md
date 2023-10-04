@@ -47,10 +47,9 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 # Data Cleaning Process
 **Data import**
 * Downloaded the dataset, had an overview of the CSV file on Excel, and imported the Dataset to Power BI
-**Data cleaning**
-* Deleted empty  and non-used columns
   
-**Create Desired demographics** 
+**Filter Desired demographics**
+* Delete empty  and non-used columns
 * in column (Which Title Best Fits Your Current Role) 'Split column' 'By Delimiter' using 'Custom' '(' 'split at' 'left-most Delimiter' 'OK'. This is done so as to create a separate column  to have the  desired demographics, And then delete the new column.
 * Repeat the previous step in column (What Industry do you work in) 
 * Repeat the previous step in column (Which Country do you live in)
