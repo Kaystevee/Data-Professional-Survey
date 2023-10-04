@@ -61,4 +61,16 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 
 ![Data Profession Dashboard](https://github.com/Kaystevee/Data-Professional-Survey/assets/111535799/54e75a95-5f7e-43c9-8b0d-62fd2dfb83a3)
 
+# Conclusion
+
+In conclusion, the insights gained from this analysis show:
+* Their were 630 people that participated in this survey.
+* The average age of survey takers is 30 years.
+* Data scientist makes the most income among all the other Data professionals and has the best work/life balance.
+* People in the United States participated most with a survey count of 261, they have the most happiness and work/life balance and the best salary. This means The United States is the best country for any Data professional to work.
+* Canada has the lowest survey count.
+* India has the lowest salary, and also the lowest happiness and work/life balance, though that's where you will find the younger Data professionals.
+* The most popular programming language is Python and the least is Java.
+* Data Analyst makes the most use of all the programming languages.
+* 
 
