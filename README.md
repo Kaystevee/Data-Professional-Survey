@@ -55,6 +55,11 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 * Repeat the previous step in column (Which Country do you live in)
 * Repeat the previous step in column (Favorite Programming Language) but using 'colon' split at 'left-most Delimiter
 * Make a new column to calculate the Average salary using (Current Yearly Salary (in USD))
-* 
+
+
+# Visualization
+
+![](C:\Users\kalusteven04\Desktop\DATA ANALYSIS\PROJECT\POWER BI PROJECT\PROJECT 1\to\DataProfession.pdf)
+
 
 
