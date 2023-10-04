@@ -21,7 +21,7 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 * Country
 * Referrer
 * Time Spent
-* Q1 - Which Title Best Fits your Current Role?
+* Q1 - Which Title Best Fits Your Current Role?
 * Q2 - Did you switch careers into Data?
 * Q3 - Current Yearly Salary (in USD)
 * Q4 - What Industry do you work in?
@@ -46,7 +46,10 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 
 # Data Cleaning Process
 **Data import**
-* Downloaded the dataset, had an overview of the CSV file on Excel and imported the Dataset to Power BI
-
+* Downloaded the dataset, had an overview of the CSV file on Excel, and imported the Dataset to Power BI
+**Data cleaning**
+* Deleted empty columns
+* Split column by delimiter on column (Q1- Which Title Best Fits Your Current Role) so as to have the desired Data Profession such as Data Analyst, Data Architect, Data Engineer, Data Scientist, Database Developer, Other, and Student/Looking/None and Deleted the new column.
+* 
 
 
