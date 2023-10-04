@@ -59,6 +59,9 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 
 # Visualization
 
-[Data Profession Dashboard](https://github.com/Kaystevee/Data-Professional-Survey/files/12798965/DataProfession.png)
+![Data Profession Dashboard](https://github.com/Kaystevee/Data-Professional-Survey/assets/111535799/54e75a95-5f7e-43c9-8b0d-62fd2dfb83a3)
+
+
+![Data Profession Dashboard](https://github.com/Kaystevee/Data-Professional-Survey/files/12798965/DataProfession.png)
 
 
