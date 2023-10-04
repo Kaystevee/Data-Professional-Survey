@@ -48,8 +48,13 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 **Data import**
 * Downloaded the dataset, had an overview of the CSV file on Excel, and imported the Dataset to Power BI
 **Data cleaning**
-* Deleted empty columns
-* Split column by delimiter on column (Q1- Which Title Best Fits Your Current Role) so as to have the desired Data Profession such as Data Analyst, Data Architect, Data Engineer, Data Scientist, Database Developer, Other, and Student/Looking/None and Deleted the new column.
+* Deleted empty  and non-used columns.
+**Create Desired demographics** 
+* in column (Which Title Best Fits Your Current Role) 'Split column' 'By Delimiter' using 'Custom' '(' 'split at' 'left-most Delimiter' 'OK'. This is done so as to create a separate column  to have the  desired demographics, And then delete the new column.
+* Repeat the previous step in column (What Industry do you work in) 
+* Repeat the previous step in column (Which Country do you live in)
+* Repeat the previous step in column (Favorite Programming Language) but using 'colon' split at 'left-most Delimiter
+* Make a new column to calculate the Average salary using (Current Yearly Salary (in USD))
 * 
 
 
