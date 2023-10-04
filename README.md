@@ -64,7 +64,7 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 # Conclusion
 
 In conclusion, the insights gained from this analysis show:
-* Their were 630 people that participated in this survey.
+* Their were 630 people that participated in this survey, with 468 Males and 162 Females.
 * The average age of survey takers is 30 years.
 * Data scientist makes the most income among all the other Data professionals and has the best work/life balance.
 * People in the United States participated most with a survey count of 261, they have the most happiness and work/life balance and the best salary. This means The United States is the best country for any Data professional to work.
@@ -72,5 +72,5 @@ In conclusion, the insights gained from this analysis show:
 * India has the lowest salary, and also the lowest happiness and work/life balance, though that's where you will find the younger Data professionals.
 * The most popular programming language is Python and the least is Java.
 * Data Analyst makes the most use of all the programming languages.
-* 
+* The Average salary of females is 55k while the male is 53k.
 
