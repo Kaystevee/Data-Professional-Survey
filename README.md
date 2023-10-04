@@ -59,7 +59,7 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 
 # Visualization
 
-![](C:\Users\kalusteven04\Desktop\DATA ANALYSIS\PROJECT\POWER BI PROJECT\PROJECT 1\to\DataProfession.pdf)
+![Data Profession Dashboard](C:\Users\kalusteven04\Desktop\DATA ANALYSIS\PROJECT\POWER BI PROJECT\PROJECT 1\to\DataProfession.pdf)
 
 
 
