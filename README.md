@@ -64,7 +64,7 @@ The primary objective of the data cleaning project is to prepare a clean and rel
 # Conclusion
 
 In conclusion, the insights gained from this analysis show:
-* Their were 630 people that participated in this survey, with 468 Males and 162 Females.
+* 630 people participated in this survey, with 468 Males and 162 Females.
 * The average age of survey takers is 30 years.
 * Data scientist makes the most income among all the other Data professionals and has the best work/life balance.
 * People in the United States participated most with a survey count of 261, they have the most happiness and work/life balance and the best salary. This means The United States is the best country for any Data professional to work.
